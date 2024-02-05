@@ -5,6 +5,12 @@
 
 Use CTRL-SHIFT-R to switch refresh rates in Windows 11.
 
+So, the big issue for some of us who have horizontal lines on higher refresh rates, usually Ultra Wide monitors, there comes a tool that lets you quickly switch your refresh rate from a cold boot or from a longer monitor power off.
+
+In our monitor case it took over 15 minutes sometimes before we could access the Display Settings! No more waiting for the lines to disapear just press CTRL-SHIFT-R to switch refresh rates.
+
+Feel free to file issues and requests.
+
 
 ## Download & Install from Exisiting Executable
 
