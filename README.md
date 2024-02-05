@@ -6,7 +6,9 @@ Use CTRL-SHIFT-R to switch refresh rates in Windows 11.
 
 ## Download & Install from Exisiting Executable
 
-Download display_refresh_rate_changer_setup.exe
+[Download display_refresh_rate_changer_setup.exe](https://github.com/yourfuse/refreshRateShortcut/blob/main/display_refresh_rate_changer_setup.exe)
+
+Open to Install.
 
 ## Switch Refresh Rate from Anywhere in Windows 11
 
